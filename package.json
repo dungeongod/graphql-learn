@@ -1,0 +1,26 @@
+{
+  "name": "graphql-learn",
+  "version": "1.0.0",
+  "main": "schema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dungeongod/graphql-learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dungeongod/graphql-learn/issues"
+  },
+  "homepage": "https://github.com/dungeongod/graphql-learn#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.4.2",
+    "node-fetch": "^2.6.0"
+  }
+}
